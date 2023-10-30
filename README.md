@@ -12,4 +12,22 @@ I initiated the process by importing the file into Excel, converting it from a C
 In order to effectively interpret and showcase my data, I skillfully crafted multiple pivot tables and charts. 
 
 1. The following visual representation highlights average values across various parameters, unveiling an intriguing revelation.While there is gender parity in BMI and Temperature, subtle distinctions emerge in Age, Heart Rate, Blood Pressure, and Cholesterol. This dynamic snapshot brings to light the nuanced differences within these vital health indicators.
-![](quest 1.PNG)
+![](quest_1.PNG)
+
+2. Male heights tip the scales slightly higher than their female counterparts while females take the lead in weight metrics.
+![](Quest_2.PNG)
+
+3. Our student community boasts a predominant prevalence of the "O" blood group, with the "A" blood group emerging as the least among our diverse population.
+![](quest_3.PNG)
+
+
+
+4. 18% of the student population smokes with 80% reported to haven't smoked before.
+5. Also, approximately 9% of the population are Diabetic with 10% reported not knowing their diabetic status.
+
+![](quest_4_and_5.PNG)
+
+## Conclusions and Recommendations
+On the whole, the data paints a positive picture of the well-being of a significant majority of medical students. Yet, in the pursuit of optimal health, a call for consistency resonates. For those on a path less optimal, a proactive stance beckons—prompt hospital visits coupled with unwavering adherence to medical prescriptions stand as potent recommendations for a holistic health turnaround.
+Thank you for the read.
+   
